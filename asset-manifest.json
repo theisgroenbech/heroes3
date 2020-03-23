@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/heroes3/static/css/main.86a38700.chunk.css",
-    "main.js": "/heroes3/static/js/main.5eee8fac.chunk.js",
-    "main.js.map": "/heroes3/static/js/main.5eee8fac.chunk.js.map",
+    "main.js": "/heroes3/static/js/main.deb67d31.chunk.js",
+    "main.js.map": "/heroes3/static/js/main.deb67d31.chunk.js.map",
     "runtime-main.js": "/heroes3/static/js/runtime-main.ce6562ac.js",
     "runtime-main.js.map": "/heroes3/static/js/runtime-main.ce6562ac.js.map",
     "static/js/2.a6a7a88b.chunk.js": "/heroes3/static/js/2.a6a7a88b.chunk.js",
     "static/js/2.a6a7a88b.chunk.js.map": "/heroes3/static/js/2.a6a7a88b.chunk.js.map",
     "index.html": "/heroes3/index.html",
-    "precache-manifest.f47f70ee52d7554b81f43721396106e1.js": "/heroes3/precache-manifest.f47f70ee52d7554b81f43721396106e1.js",
+    "precache-manifest.343db1ac70a3ddf20173723b1a81d489.js": "/heroes3/precache-manifest.343db1ac70a3ddf20173723b1a81d489.js",
     "service-worker.js": "/heroes3/service-worker.js",
     "static/css/main.86a38700.chunk.css.map": "/heroes3/static/css/main.86a38700.chunk.css.map",
     "static/js/2.a6a7a88b.chunk.js.LICENSE.txt": "/heroes3/static/js/2.a6a7a88b.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ce6562ac.js",
     "static/js/2.a6a7a88b.chunk.js",
     "static/css/main.86a38700.chunk.css",
-    "static/js/main.5eee8fac.chunk.js"
+    "static/js/main.deb67d31.chunk.js"
   ]
 }
