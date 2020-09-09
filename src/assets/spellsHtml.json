@@ -1,0 +1,422 @@
+[
+ {
+   "Name": "<a href=\"/index.php/Bloodlust\" title=\"Bloodlust\"><img alt=\"Bloodlust small.png\" src=\"/images/2/21/Bloodlust_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Bloodlust\" title=\"Bloodlust\">Bloodlust</a>",
+   "Level": 1,
+   "Class": "<a href=\"/index.php/School_of_Fire_Magic\" title=\"School of Fire Magic\">Fire Magic</a>",
+   "Effect": "Increases the <a href=\"/index.php/Attack\" class=\"mw-redirect\" title=\"Attack\">attack</a> skill of target (or all) allied creature for melee attacks."
+ },
+ {
+   "Name": "<a href=\"/index.php/Cure\" title=\"Cure\"><img alt=\"Cure small.png\" src=\"/images/4/4f/Cure_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Cure\" title=\"Cure\">Cure</a>",
+   "Level": 1,
+   "Class": "<a href=\"/index.php/School_of_Water_Magic\" title=\"School of Water Magic\">Water Magic</a>",
+   "Effect": "Removes all negative spell effects from target (or all) allied troop and heals it for (10/20/30 + (power x 5)) health points."
+ },
+ {
+   "Name": "<a href=\"/index.php/Curse\" title=\"Curse\"><img alt=\"Curse small.png\" src=\"/images/c/ca/Curse_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Curse\" title=\"Curse\">Curse</a>",
+   "Level": 1,
+   "Class": "<a href=\"/index.php/School_of_Fire_Magic\" title=\"School of Fire Magic\">Fire Magic</a>",
+   "Effect": "The targeted (or all) enemy unit(s) deliver minimum or reduced damage when attacking."
+ },
+ {
+   "Name": "<a href=\"/index.php/Dispel\" title=\"Dispel\"><img alt=\"Dispel small.png\" src=\"/images/3/3d/Dispel_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Dispel\" title=\"Dispel\">Dispel</a>",
+   "Level": 1,
+   "Class": "<a href=\"/index.php/School_of_Water_Magic\" title=\"School of Water Magic\">Water Magic</a>",
+   "Effect": "Removes all spell effects from target allied, enemy or all creatures and the battlefield."
+ },
+ {
+   "Name": "<a href=\"/index.php/Bless\" title=\"Bless\"><img alt=\"Bless small.png\" src=\"/images/4/4e/Bless_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Bless\" title=\"Bless\">Bless</a>",
+   "Level": 1,
+   "Class": "<a href=\"/index.php/School_of_Water_Magic\" title=\"School of Water Magic\">Water Magic</a>",
+   "Effect": "Target (or all) allied creature(s) inflict maximum damage (or maximum +1) when they attack."
+ },
+ {
+   "Name": "<a href=\"/index.php/Haste\" title=\"Haste\"><img alt=\"Haste small.png\" src=\"/images/b/b6/Haste_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Haste\" title=\"Haste\">Haste</a>",
+   "Level": 1,
+   "Class": "<a href=\"/index.php/School_of_Air_Magic\" title=\"School of Air Magic\">Air Magic</a>",
+   "Effect": "Target (or all) allied troop's <a href=\"/index.php/Speed\" title=\"Speed\">speed</a> is increased by 3 (or 5) hexes per turn."
+ },
+ {
+   "Name": "<a href=\"/index.php/Magic_Arrow\" title=\"Magic Arrow\"><img alt=\"Magic Arrow small.png\" src=\"/images/f/f5/Magic_Arrow_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Magic_Arrow\" title=\"Magic Arrow\">Magic Arrow</a>",
+   "Level": 1,
+   "Class": "<a href=\"/index.php/School_of_magic_(conceptual)\" class=\"mw-redirect\" title=\"School of magic (conceptual)\">All Schools</a>",
+   "Effect": "Target, enemy troop receives (10/20/30 + (power x 10)) damage"
+ },
+ {
+   "Name": "<a href=\"/index.php/Protection_from_Fire\" title=\"Protection from Fire\"><img alt=\"Protection from Fire small.png\" src=\"/images/f/fe/Protection_from_Fire_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Protection_from_Fire\" title=\"Protection from Fire\">Protection from Fire</a>",
+   "Level": 1,
+   "Class": "<a href=\"/index.php/School_of_Fire_Magic\" title=\"School of Fire Magic\">Fire Magic</a>",
+   "Effect": "Reduces damage taken from <a href=\"/index.php/School_of_Fire_Magic\" title=\"School of Fire Magic\">fire spells</a>. Basic: Single ally. Expert: All allies."
+ },
+ {
+   "Name": "<a href=\"/index.php/Protection_from_Water\" title=\"Protection from Water\"><img alt=\"Protection from Water small.png\" src=\"/images/4/45/Protection_from_Water_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Protection_from_Water\" title=\"Protection from Water\">Protection from Water</a>",
+   "Level": 1,
+   "Class": "<a href=\"/index.php/School_of_Water_Magic\" title=\"School of Water Magic\">Water Magic</a>",
+   "Effect": "Reduces damage taken from <a href=\"/index.php/School_of_Water_Magic\" title=\"School of Water Magic\">water spells</a>. Basic: Single ally. Expert: All allies."
+ },
+ {
+   "Name": "<a href=\"/index.php/Shield\" title=\"Shield\"><img alt=\"Shield small.png\" src=\"/images/b/b0/Shield_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Shield\" title=\"Shield\">Shield</a>",
+   "Level": 1,
+   "Class": "<a href=\"/index.php/School_of_Earth_Magic\" title=\"School of Earth Magic\">Earth Magic</a>",
+   "Effect": "Reduces damage taken from <a href=\"/index.php/Hand-to-hand\" title=\"Hand-to-hand\">hand-to-hand</a> attacks. Basic: Single ally. Expert: All allies."
+ },
+ {
+   "Name": "<a href=\"/index.php/Slow\" title=\"Slow\"><img alt=\"Slow small.png\" src=\"/images/2/2e/Slow_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Slow\" title=\"Slow\">Slow</a>",
+   "Level": 1,
+   "Class": "<a href=\"/index.php/School_of_Earth_Magic\" title=\"School of Earth Magic\">Earth Magic</a>",
+   "Effect": "Decreases <a href=\"/index.php/Speed\" title=\"Speed\">speed</a>. Basic: Single enemy. Expert: All enemies."
+ },
+ {
+   "Name": "<a href=\"/index.php/Summon_Boat\" title=\"Summon Boat\"><img alt=\"Summon Boat small.png\" src=\"/images/3/36/Summon_Boat_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Summon_Boat\" title=\"Summon Boat\">Summon Boat</a>",
+   "Level": 1,
+   "Class": "<a href=\"/index.php/School_of_Water_Magic\" title=\"School of Water Magic\">Water Magic</a>",
+   "Effect": "Summons unoccupied <a href=\"/index.php/Boat\" title=\"Boat\">boat</a> to nearby body of water."
+ },
+ {
+   "Name": "<a href=\"/index.php/Stone_Skin\" title=\"Stone Skin\"><img alt=\"Stone Skin small.png\" src=\"/images/5/55/Stone_Skin_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Stone_Skin\" title=\"Stone Skin\">Stone Skin</a>",
+   "Level": 1,
+   "Class": "<a href=\"/index.php/School_of_Earth_Magic\" title=\"School of Earth Magic\">Earth Magic</a>",
+   "Effect": "Increases <a href=\"/index.php/Defense\" class=\"mw-redirect\" title=\"Defense\">defense</a> rating. Basic: Single ally. Expert: All allies."
+ },
+ {
+   "Name": "<a href=\"/index.php/View_Air\" title=\"View Air\"><img alt=\"View Air small.png\" src=\"/images/c/cd/View_Air_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/View_Air\" title=\"View Air\">View Air</a>",
+   "Level": 1,
+   "Class": "<a href=\"/index.php/School_of_Air_Magic\" title=\"School of Air Magic\">Air Magic</a>",
+   "Effect": "Reveals location of all unclaimed <a href=\"/index.php/Artifacts\" class=\"mw-redirect\" title=\"Artifacts\">artifacts</a>. <p>\n </p>"
+ },
+ {
+   "Name": "<a href=\"/index.php/View_Earth\" title=\"View Earth\"><img alt=\"View Earth small.png\" src=\"/images/c/c2/View_Earth_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/View_Earth\" title=\"View Earth\">View Earth</a>",
+   "Level": 1,
+   "Class": "<a href=\"/index.php/School_of_Earth_Magic\" title=\"School of Earth Magic\">Earth Magic</a>",
+   "Effect": "Reveals location of all <a href=\"/index.php/Resources\" class=\"mw-redirect\" title=\"Resources\">resources</a>."
+ },
+ {
+   "Name": "<a href=\"/index.php/Blind\" title=\"Blind\"><img alt=\"Blind small.png\" src=\"/images/c/c4/Blind_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Blind\" title=\"Blind\">Blind</a>",
+   "Level": 2,
+   "Class": "<a href=\"/index.php/School_of_Fire_Magic\" title=\"School of Fire Magic\">Fire Magic</a>",
+   "Effect": "Prevents any action from being taken by target enemy creature."
+ },
+ {
+   "Name": "<a href=\"/index.php/Death_Ripple\" title=\"Death Ripple\"><img alt=\"Death Ripple small.png\" src=\"/images/f/fe/Death_Ripple_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Death_Ripple\" title=\"Death Ripple\">Death Ripple</a>",
+   "Level": 2,
+   "Class": "<a href=\"/index.php/School_of_Earth_Magic\" title=\"School of Earth Magic\">Earth Magic</a>",
+   "Effect": "Inflicts magic damage on all <a href=\"/index.php/Living\" class=\"mw-redirect\" title=\"Living\">living</a> creatures."
+ },
+ {
+   "Name": "<a href=\"/index.php/Disguise\" title=\"Disguise\"><img alt=\"Disguise small.png\" src=\"/images/a/ab/Disguise_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Disguise\" title=\"Disguise\">Disguise</a>",
+   "Level": 2,
+   "Class": "<a href=\"/index.php/School_of_Air_Magic\" title=\"School of Air Magic\">Air Magic</a>",
+   "Effect": "Modifies the army composition scouting report visible to enemies."
+ },
+ {
+   "Name": "<a href=\"/index.php/Disrupting_Ray\" title=\"Disrupting Ray\"><img alt=\"Disrupting Ray small.png\" src=\"/images/d/d2/Disrupting_Ray_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Disrupting_Ray\" title=\"Disrupting Ray\">Disrupting Ray</a>",
+   "Level": 2,
+   "Class": "<a href=\"/index.php/School_of_Air_Magic\" title=\"School of Air Magic\">Air Magic</a>",
+   "Effect": "Reduces <a href=\"/index.php/Defense\" class=\"mw-redirect\" title=\"Defense\">defense</a> rating of a single enemy. May be used repeatedly on the same target."
+ },
+ {
+   "Name": "<a href=\"/index.php/Fire_Wall\" title=\"Fire Wall\"><img alt=\"Fire Wall small.png\" src=\"/images/c/cc/Fire_Wall_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Fire_Wall\" title=\"Fire Wall\">Fire Wall</a>",
+   "Level": 2,
+   "Class": "<a href=\"/index.php/School_of_Fire_Magic\" title=\"School of Fire Magic\">Fire Magic</a>",
+   "Effect": "Creates wall of fire at target location that inflicts magic damage on creatures that pass through."
+ },
+ {
+   "Name": "<a href=\"/index.php/Fortune\" title=\"Fortune\"><img alt=\"Fortune small.png\" src=\"/images/d/d3/Fortune_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Fortune\" title=\"Fortune\">Fortune</a>",
+   "Level": 2,
+   "Class": "<a href=\"/index.php/School_of_Air_Magic\" title=\"School of Air Magic\">Air Magic</a>",
+   "Effect": "Increases <a href=\"/index.php/Luck\" title=\"Luck\">luck</a>. Basic: Single ally. Expert: All allies."
+ },
+ {
+   "Name": "<a href=\"/index.php/Ice_Bolt\" title=\"Ice Bolt\"><img alt=\"Ice Bolt small.png\" src=\"/images/a/a3/Ice_Bolt_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Ice_Bolt\" title=\"Ice Bolt\">Ice Bolt</a>",
+   "Level": 2,
+   "Class": "<a href=\"/index.php/School_of_Water_Magic\" title=\"School of Water Magic\">Water Magic</a>",
+   "Effect": "Inflicts magic damage on a single enemy."
+ },
+ {
+   "Name": "<a href=\"/index.php/Lightning_Bolt\" title=\"Lightning Bolt\"><img alt=\"Lightning Bolt small.png\" src=\"/images/8/8d/Lightning_Bolt_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Lightning_Bolt\" title=\"Lightning Bolt\">Lightning Bolt</a>",
+   "Level": 2,
+   "Class": "<a href=\"/index.php/School_of_Air_Magic\" title=\"School of Air Magic\">Air Magic</a>",
+   "Effect": "Inflicts magic damage on a single enemy."
+ },
+ {
+   "Name": "<a href=\"/index.php/Precision\" title=\"Precision\"><img alt=\"Precision small.png\" src=\"/images/a/a7/Precision_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Precision\" title=\"Precision\">Precision</a>",
+   "Level": 2,
+   "Class": "<a href=\"/index.php/School_of_Air_Magic\" title=\"School of Air Magic\">Air Magic</a>",
+   "Effect": "Increases ranged <a href=\"/index.php/Attack\" class=\"mw-redirect\" title=\"Attack\">attack</a> rating. Basic: Single ally. Expert: All allies."
+ },
+ {
+   "Name": "<a href=\"/index.php/Protection_from_Air\" title=\"Protection from Air\"><img alt=\"Protection from Air small.png\" src=\"/images/1/11/Protection_from_Air_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Protection_from_Air\" title=\"Protection from Air\">Protection from Air</a>",
+   "Level": 2,
+   "Class": "<a href=\"/index.php/School_of_Air_Magic\" title=\"School of Air Magic\">Air Magic</a>",
+   "Effect": "Reduces damage taken from <a href=\"/index.php/School_of_Air_Magic\" title=\"School of Air Magic\">air spells</a>. Basic: Single ally. Expert: All allies."
+ },
+ {
+   "Name": "<a href=\"/index.php/Quicksand\" title=\"Quicksand\"><img alt=\"Quicksand small.png\" src=\"/images/3/32/Quicksand_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Quicksand\" title=\"Quicksand\">Quicksand</a>",
+   "Level": 2,
+   "Class": "<a href=\"/index.php/School_of_Earth_Magic\" title=\"School of Earth Magic\">Earth Magic</a>",
+   "Effect": "Places quicksand at random locations on the battlefield. Only visible to caster and creatures native to the terrain. Creatures attempting to pass through quicksand become stuck and make the location of the quicksand visible."
+ },
+ {
+   "Name": "<a href=\"/index.php/Remove_Obstacle\" title=\"Remove Obstacle\"><img alt=\"Remove Obstacle small.png\" src=\"/images/0/00/Remove_Obstacle_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Remove_Obstacle\" title=\"Remove Obstacle\">Remove Obstacle</a>",
+   "Level": 2,
+   "Class": "<a href=\"/index.php/School_of_Water_Magic\" title=\"School of Water Magic\">Water Magic</a>",
+   "Effect": "Removes obstacles from the battlefield. Basic: Only trees, rocks and other natural obstacles may be removed. Advanced: May also remove fire walls."
+ },
+ {
+   "Name": "<a href=\"/index.php/Scuttle_Boat\" title=\"Scuttle Boat\"><img alt=\"Scuttle Boat small.png\" src=\"/images/a/a0/Scuttle_Boat_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Scuttle_Boat\" title=\"Scuttle Boat\">Scuttle Boat</a>",
+   "Level": 2,
+   "Class": "<a href=\"/index.php/School_of_Water_Magic\" title=\"School of Water Magic\">Water Magic</a>",
+   "Effect": "Destroys nearby unoccupied boat."
+ },
+ {
+   "Name": "<a href=\"/index.php/Visions\" title=\"Visions\"><img alt=\"Visions small.png\" src=\"/images/b/b6/Visions_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Visions\" title=\"Visions\">Visions</a>",
+   "Level": 2,
+   "Class": "<a href=\"/index.php/School_of_magic_(conceptual)\" class=\"mw-redirect\" title=\"School of magic (conceptual)\">All Schools</a>",
+   "Effect": "Increases information shown in scouting reports of towns, creatures and heroes."
+ },
+ {
+   "Name": "<a href=\"/index.php/Weakness\" title=\"Weakness\"><img alt=\"Weakness small.png\" src=\"/images/2/2a/Weakness_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Weakness\" title=\"Weakness\">Weakness</a>",
+   "Level": 2,
+   "Class": "<a href=\"/index.php/School_of_Water_Magic\" title=\"School of Water Magic\">Water Magic</a>",
+   "Effect": "Reduces <a href=\"/index.php/Attack\" class=\"mw-redirect\" title=\"Attack\">attack</a> rating. Basic: Single enemy. Expert: All enemies."
+ },
+ {
+   "Name": "<a href=\"/index.php/Air_Shield\" title=\"Air Shield\"><img alt=\"Air Shield small.png\" src=\"/images/e/e1/Air_Shield_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Air_Shield\" title=\"Air Shield\">Air Shield</a>",
+   "Level": 3,
+   "Class": "<a href=\"/index.php/School_of_Air_Magic\" title=\"School of Air Magic\">Air Magic</a>",
+   "Effect": "Reduces damage taken from ranged attacks."
+ },
+ {
+   "Name": "<a href=\"/index.php/Animate_Dead\" title=\"Animate Dead\"><img alt=\"Animate Dead small.png\" src=\"/images/5/55/Animate_Dead_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Animate_Dead\" title=\"Animate Dead\">Animate Dead</a>",
+   "Level": 3,
+   "Class": "<a href=\"/index.php/School_of_Earth_Magic\" title=\"School of Earth Magic\">Earth Magic</a>",
+   "Effect": "Reanimates killed undead creatures. Reanimated creatures are not lost when combat ends."
+ },
+ {
+   "Name": "<a href=\"/index.php/Anti-Magic\" title=\"Anti-Magic\"><img alt=\"Anti-Magic small.png\" src=\"/images/c/cd/Anti-Magic_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Anti-Magic\" title=\"Anti-Magic\">Anti-Magic</a>",
+   "Level": 3,
+   "Class": "<a href=\"/index.php/School_of_Earth_Magic\" title=\"School of Earth Magic\">Earth Magic</a>",
+   "Effect": "Grants <a href=\"/index.php/Spell_immunity\" title=\"Spell immunity\">spell immunity</a> to a single creature."
+ },
+ {
+   "Name": "<a href=\"/index.php/Destroy_Undead\" title=\"Destroy Undead\"><img alt=\"Destroy Undead small.png\" src=\"/images/6/6a/Destroy_Undead_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Destroy_Undead\" title=\"Destroy Undead\">Destroy Undead</a>",
+   "Level": 3,
+   "Class": "<a href=\"/index.php/School_of_Air_Magic\" title=\"School of Air Magic\">Air Magic</a>",
+   "Effect": "Inflicts magic damage on all undead creatures."
+ },
+ {
+   "Name": "<a href=\"/index.php/Earthquake\" title=\"Earthquake\"><img alt=\"Earthquake small.png\" src=\"/images/d/d5/Earthquake_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Earthquake\" title=\"Earthquake\">Earthquake</a>",
+   "Level": 3,
+   "Class": "<a href=\"/index.php/School_of_Earth_Magic\" title=\"School of Earth Magic\">Earth Magic</a>",
+   "Effect": "Inflicts damage on random castle wall sections during a siege."
+ },
+ {
+   "Name": "<a href=\"/index.php/Fireball\" title=\"Fireball\"><img alt=\"Fireball small.png\" src=\"/images/f/f0/Fireball_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Fireball\" title=\"Fireball\">Fireball</a>",
+   "Level": 3,
+   "Class": "<a href=\"/index.php/School_of_Fire_Magic\" title=\"School of Fire Magic\">Fire Magic</a>",
+   "Effect": "Inflicts magic damage on all creatures in area."
+ },
+ {
+   "Name": "<a href=\"/index.php/Force_Field\" title=\"Force Field\"><img alt=\"Force Field small.png\" src=\"/images/d/d3/Force_Field_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Force_Field\" title=\"Force Field\">Force Field</a>",
+   "Level": 3,
+   "Class": "<a href=\"/index.php/School_of_Earth_Magic\" title=\"School of Earth Magic\">Earth Magic</a>",
+   "Effect": "Places force field at specified location. Creatures cannot pass this field."
+ },
+ {
+   "Name": "<a href=\"/index.php/Forgetfulness\" title=\"Forgetfulness\"><img alt=\"Forgetfulness small.png\" src=\"/images/4/4c/Forgetfulness_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Forgetfulness\" title=\"Forgetfulness\">Forgetfulness</a>",
+   "Level": 3,
+   "Class": "<a href=\"/index.php/School_of_Water_Magic\" title=\"School of Water Magic\">Water Magic</a>",
+   "Effect": "Prevents use of ranged attacks. Basic: Single enemy. Expert: All enemies."
+ },
+ {
+   "Name": "<a href=\"/index.php/Frost_Ring\" title=\"Frost Ring\"><img alt=\"Frost Ring small.png\" src=\"/images/f/f6/Frost_Ring_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Frost_Ring\" title=\"Frost Ring\">Frost Ring</a>",
+   "Level": 3,
+   "Class": "<a href=\"/index.php/School_of_Water_Magic\" title=\"School of Water Magic\">Water Magic</a>",
+   "Effect": "Inflicts magic damage on all creatures in area."
+ },
+ {
+   "Name": "<a href=\"/index.php/Hypnotize\" title=\"Hypnotize\"><img alt=\"Hypnotize small.png\" src=\"/images/7/75/Hypnotize_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Hypnotize\" title=\"Hypnotize\">Hypnotize</a>",
+   "Level": 3,
+   "Class": "<a href=\"/index.php/School_of_Air_Magic\" title=\"School of Air Magic\">Air Magic</a>",
+   "Effect": "Allows control of actions taken by enemy creature."
+ },
+ {
+   "Name": "<a href=\"/index.php/Land_Mine\" title=\"Land Mine\"><img alt=\"Land Mine small.png\" src=\"/images/6/68/Land_Mine_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Land_Mine\" title=\"Land Mine\">Land Mine</a>",
+   "Level": 3,
+   "Class": "<a href=\"/index.php/School_of_Fire_Magic\" title=\"School of Fire Magic\">Fire Magic</a>",
+   "Effect": "Places landmines at random locations on the battlefield. Only visible to caster and creatures native to the terrain."
+ },
+ {
+   "Name": "<a href=\"/index.php/Mirth\" title=\"Mirth\"><img alt=\"Mirth small.png\" src=\"/images/6/63/Mirth_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Mirth\" title=\"Mirth\">Mirth</a>",
+   "Level": 3,
+   "Class": "<a href=\"/index.php/School_of_Water_Magic\" title=\"School of Water Magic\">Water Magic</a>",
+   "Effect": "Increases <a href=\"/index.php/Morale\" title=\"Morale\">morale</a>. Basic: Single ally. Expert: All allies."
+ },
+ {
+   "Name": "<a href=\"/index.php/Misfortune\" title=\"Misfortune\"><img alt=\"Misfortune small.png\" src=\"/images/8/8d/Misfortune_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Misfortune\" title=\"Misfortune\">Misfortune</a>",
+   "Level": 3,
+   "Class": "<a href=\"/index.php/School_of_Fire_Magic\" title=\"School of Fire Magic\">Fire Magic</a>",
+   "Effect": "Reduces <a href=\"/index.php/Luck\" title=\"Luck\">luck</a>. Basic: Single enemy. Expert: All enemies."
+ },
+ {
+   "Name": "<a href=\"/index.php/Protection_from_Earth\" title=\"Protection from Earth\"><img alt=\"Protection from Earth small.png\" src=\"/images/9/97/Protection_from_Earth_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Protection_from_Earth\" title=\"Protection from Earth\">Protection from Earth</a>",
+   "Level": 3,
+   "Class": "<a href=\"/index.php/School_of_Earth_Magic\" title=\"School of Earth Magic\">Earth Magic</a>",
+   "Effect": "Reduces damage taken from <a href=\"/index.php/School_of_Earth_Magic\" title=\"School of Earth Magic\">earth spells</a>. Basic: Single ally. Expert: All allies."
+ },
+ {
+   "Name": "<a href=\"/index.php/Teleport\" title=\"Teleport\"><img alt=\"Teleport small.png\" src=\"/images/9/9b/Teleport_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Teleport\" title=\"Teleport\">Teleport</a>",
+   "Level": 3,
+   "Class": "<a href=\"/index.php/School_of_Water_Magic\" title=\"School of Water Magic\">Water Magic</a>",
+   "Effect": "Teleports ally to location on the battlefield. Expert: May teleport creature over castle walls."
+ },
+ {
+   "Name": "<a href=\"/index.php/Armageddon\" title=\"Armageddon\"><img alt=\"Armageddon small.png\" src=\"/images/1/1a/Armageddon_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Armageddon\" title=\"Armageddon\">Armageddon</a>",
+   "Level": 4,
+   "Class": "<a href=\"/index.php/School_of_Fire_Magic\" title=\"School of Fire Magic\">Fire Magic</a>",
+   "Effect": "Inflicts magic damage on all creatures on the battlefield."
+ },
+ {
+   "Name": "<a href=\"/index.php/Berserk\" title=\"Berserk\"><img alt=\"Berserk small.png\" src=\"/images/0/04/Berserk_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Berserk\" title=\"Berserk\">Berserk</a>",
+   "Level": 4,
+   "Class": "<a href=\"/index.php/School_of_Fire_Magic\" title=\"School of Fire Magic\">Fire Magic</a>",
+   "Effect": "Forces enemy to attack closest creature."
+ },
+ {
+   "Name": "<a href=\"/index.php/Chain_Lightning\" title=\"Chain Lightning\"><img alt=\"Chain Lightning small.png\" src=\"/images/7/7e/Chain_Lightning_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Chain_Lightning\" title=\"Chain Lightning\">Chain Lightning</a>",
+   "Level": 4,
+   "Class": "<a href=\"/index.php/School_of_Air_Magic\" title=\"School of Air Magic\">Air Magic</a>",
+   "Effect": "Inflicts magic damage on initial creature and reduced damage on nearby creatures."
+ },
+ {
+   "Name": "<a href=\"/index.php/Clone\" title=\"Clone\"><img alt=\"Clone small.png\" src=\"/images/a/a0/Clone_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Clone\" title=\"Clone\">Clone</a>",
+   "Level": 4,
+   "Class": "<a href=\"/index.php/School_of_Water_Magic\" title=\"School of Water Magic\">Water Magic</a>",
+   "Effect": "Creates clone of allied creature."
+ },
+ {
+   "Name": "<a href=\"/index.php/Counterstrike\" title=\"Counterstrike\"><img alt=\"Counterstrike small.png\" src=\"/images/5/53/Counterstrike_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Counterstrike\" title=\"Counterstrike\">Counterstrike</a>",
+   "Level": 4,
+   "Class": "<a href=\"/index.php/School_of_Air_Magic\" title=\"School of Air Magic\">Air Magic</a>",
+   "Effect": "Allows extra retaliations per round. Basic: Single ally. Expert: All allies."
+ },
+ {
+   "Name": "<a href=\"/index.php/Fire_Shield\" title=\"Fire Shield\"><img alt=\"Fire Shield small.png\" src=\"/images/e/e0/Fire_Shield_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Fire_Shield\" title=\"Fire Shield\">Fire Shield</a>",
+   "Level": 4,
+   "Class": "<a href=\"/index.php/School_of_Fire_Magic\" title=\"School of Fire Magic\">Fire Magic</a>",
+   "Effect": "Inflicts magic damage proportional to damage taken from <a href=\"/index.php/Hand-to-hand\" title=\"Hand-to-hand\">hand-to-hand</a> attacks."
+ },
+ {
+   "Name": "<a href=\"/index.php/Frenzy\" title=\"Frenzy\"><img alt=\"Frenzy small.png\" src=\"/images/4/4b/Frenzy_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Frenzy\" title=\"Frenzy\">Frenzy</a>",
+   "Level": 4,
+   "Class": "<a href=\"/index.php/School_of_Fire_Magic\" title=\"School of Fire Magic\">Fire Magic</a>",
+   "Effect": "Increases <a href=\"/index.php/Attack\" class=\"mw-redirect\" title=\"Attack\">attack</a> rating and sets <a href=\"/index.php/Defense\" class=\"mw-redirect\" title=\"Defense\">defense</a> rating to 0."
+ },
+ {
+   "Name": "<a href=\"/index.php/Inferno_(spell)\" title=\"Inferno (spell)\"><img alt=\"Inferno small.png\" src=\"/images/6/62/Inferno_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Inferno_(spell)\" title=\"Inferno (spell)\">Inferno</a>",
+   "Level": 4,
+   "Class": "<a href=\"/index.php/School_of_Fire_Magic\" title=\"School of Fire Magic\">Fire Magic</a>",
+   "Effect": "Inflicts magic damage on all creatures in area."
+ },
+ {
+   "Name": "<a href=\"/index.php/Meteor_Shower\" title=\"Meteor Shower\"><img alt=\"Meteor Shower small.png\" src=\"/images/5/58/Meteor_Shower_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Meteor_Shower\" title=\"Meteor Shower\">Meteor Shower</a>",
+   "Level": 4,
+   "Class": "<a href=\"/index.php/School_of_Earth_Magic\" title=\"School of Earth Magic\">Earth Magic</a>",
+   "Effect": "Inflicts magic damage on all creatures in area."
+ },
+ {
+   "Name": "<a href=\"/index.php/Prayer\" title=\"Prayer\"><img alt=\"Prayer small.png\" src=\"/images/f/f7/Prayer_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Prayer\" title=\"Prayer\">Prayer</a>",
+   "Level": 4,
+   "Class": "<a href=\"/index.php/School_of_Water_Magic\" title=\"School of Water Magic\">Water Magic</a>",
+   "Effect": "Increases <a href=\"/index.php/Attack\" class=\"mw-redirect\" title=\"Attack\">attack</a> rating, <a href=\"/index.php/Defense\" class=\"mw-redirect\" title=\"Defense\">defense</a> rating and <a href=\"/index.php/Speed\" title=\"Speed\">speed</a>. Basic: Single ally. Expert: All allies."
+ },
+ {
+   "Name": "<a href=\"/index.php/Resurrection\" title=\"Resurrection\"><img alt=\"Resurrection small.png\" src=\"/images/a/aa/Resurrection_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Resurrection\" title=\"Resurrection\">Resurrection</a>",
+   "Level": 4,
+   "Class": "<a href=\"/index.php/School_of_Earth_Magic\" title=\"School of Earth Magic\">Earth Magic</a>",
+   "Effect": "Resurrects killed living creatures until the end of combat. Advanced: Resurrected creatures are not lost when combat ends."
+ },
+ {
+   "Name": "<a href=\"/index.php/Slayer\" title=\"Slayer\"><img alt=\"Slayer small.png\" src=\"/images/d/d5/Slayer_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Slayer\" title=\"Slayer\">Slayer</a>",
+   "Level": 4,
+   "Class": "<a href=\"/index.php/School_of_Fire_Magic\" title=\"School of Fire Magic\">Fire Magic</a>",
+   "Effect": "Increases <a href=\"/index.php/Attack\" class=\"mw-redirect\" title=\"Attack\">attack</a> rating of a single ally against <a href=\"/index.php/Dragons\" class=\"mw-redirect\" title=\"Dragons\">Dragons</a>, <a href=\"/index.php/Behemoths\" class=\"mw-redirect\" title=\"Behemoths\">Behemoths</a> and <a href=\"/index.php/Hydras\" class=\"mw-redirect\" title=\"Hydras\">Hydras</a>. Advanced: Effect applies to <a href=\"/index.php/Angels\" class=\"mw-redirect\" title=\"Angels\">Angels</a> and <a href=\"/index.php/Devils\" class=\"mw-redirect\" title=\"Devils\">Devils</a>. Expert: Effect applies to <a href=\"/index.php/Titans\" class=\"mw-redirect\" title=\"Titans\">Titans</a>."
+ },
+ {
+   "Name": "<a href=\"/index.php/Sorrow\" title=\"Sorrow\"><img alt=\"Sorrow small.png\" src=\"/images/f/f0/Sorrow_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Sorrow\" title=\"Sorrow\">Sorrow</a>",
+   "Level": 4,
+   "Class": "<a href=\"/index.php/School_of_Earth_Magic\" title=\"School of Earth Magic\">Earth Magic</a>",
+   "Effect": "Reduces <a href=\"/index.php/Morale\" title=\"Morale\">morale</a>. Basic: Single enemy. Expert: All enemies."
+ },
+ {
+   "Name": "<a href=\"/index.php/Town_Portal\" title=\"Town Portal\"><img alt=\"Town Portal small.png\" src=\"/images/0/0f/Town_Portal_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Town_Portal\" title=\"Town Portal\">Town Portal</a>",
+   "Level": 4,
+   "Class": "<a href=\"/index.php/School_of_Earth_Magic\" title=\"School of Earth Magic\">Earth Magic</a>",
+   "Effect": "Teleports hero to closest allied, unoccupied town. Advanced: May choose any allied, unoccupied town."
+ },
+ {
+   "Name": "<a href=\"/index.php/Water_Walk\" title=\"Water Walk\"><img alt=\"Water Walk small.png\" src=\"/images/f/f2/Water_Walk_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Water_Walk\" title=\"Water Walk\">Water Walk</a>",
+   "Level": 4,
+   "Class": "<a href=\"/index.php/School_of_Water_Magic\" title=\"School of Water Magic\">Water Magic</a>",
+   "Effect": "Allows movement to visible land across bodies of <a href=\"/index.php/Water\" class=\"mw-redirect\" title=\"Water\">water</a>."
+ },
+ {
+   "Name": "<a href=\"/index.php/Dimension_Door\" title=\"Dimension Door\"><img alt=\"Dimension Door small.png\" src=\"/images/9/96/Dimension_Door_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Dimension_Door\" title=\"Dimension Door\">Dimension Door</a>",
+   "Level": 5,
+   "Class": "<a href=\"/index.php/School_of_Air_Magic\" title=\"School of Air Magic\">Air Magic</a>",
+   "Effect": "Teleports hero to visible location."
+ },
+ {
+   "Name": "<a href=\"/index.php/Fly\" title=\"Fly\"><img alt=\"Fly small.png\" src=\"/images/9/97/Fly_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Fly\" title=\"Fly\">Fly</a>",
+   "Level": 5,
+   "Class": "<a href=\"/index.php/School_of_Air_Magic\" title=\"School of Air Magic\">Air Magic</a>",
+   "Effect": "Allows movement to visible land over all map obstacles. Cannot fly through cave walls in the underground."
+ },
+ {
+   "Name": "<a href=\"/index.php/Implosion\" title=\"Implosion\"><img alt=\"Implosion small.png\" src=\"/images/5/56/Implosion_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Implosion\" title=\"Implosion\">Implosion</a>",
+   "Level": 5,
+   "Class": "<a href=\"/index.php/School_of_Earth_Magic\" title=\"School of Earth Magic\">Earth Magic</a>",
+   "Effect": "Inflicts magic damage on a single enemy."
+ },
+ {
+   "Name": "<a href=\"/index.php/Magic_Mirror\" title=\"Magic Mirror\"><img alt=\"Magic Mirror small.png\" src=\"/images/1/10/Magic_Mirror_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Magic_Mirror\" title=\"Magic Mirror\">Magic Mirror</a>",
+   "Level": 5,
+   "Class": "<a href=\"/index.php/School_of_Air_Magic\" title=\"School of Air Magic\">Air Magic</a>",
+   "Effect": "Reflects hostile spells to a random enemy. Basic: 20% chance of occurrence. Advanced: 30% chance. Expert: 40% chance."
+ },
+ {
+   "Name": "<a href=\"/index.php/Sacrifice\" title=\"Sacrifice\"><img alt=\"Sacrifice small.png\" src=\"/images/7/70/Sacrifice_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Sacrifice\" title=\"Sacrifice\">Sacrifice</a>",
+   "Level": 5,
+   "Class": "<a href=\"/index.php/School_of_Fire_Magic\" title=\"School of Fire Magic\">Fire Magic</a>",
+   "Effect": "Destroys and removes living, unkilled allies to bring previously living, killed allies back to life."
+ },
+ {
+   "Name": "<a href=\"/index.php/Summon_Air_Elemental\" title=\"Summon Air Elemental\"><img alt=\"Summon Air Elemental small.png\" src=\"/images/a/a8/Summon_Air_Elemental_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Summon_Air_Elemental\" title=\"Summon Air Elemental\">Summon Air Elemental</a>",
+   "Level": 5,
+   "Class": "<a href=\"/index.php/School_of_Air_Magic\" title=\"School of Air Magic\">Air Magic</a>",
+   "Effect": "Summons allied <a href=\"/index.php/Air_Elementals\" class=\"mw-redirect\" title=\"Air Elementals\">Air Elementals</a> for the duration of combat."
+ },
+ {
+   "Name": "<a href=\"/index.php/Summon_Earth_Elemental\" title=\"Summon Earth Elemental\"><img alt=\"Summon Earth Elemental small.png\" src=\"/images/6/6e/Summon_Earth_Elemental_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Summon_Earth_Elemental\" title=\"Summon Earth Elemental\">Summon Earth Elemental</a>",
+   "Level": 5,
+   "Class": "<a href=\"/index.php/School_of_Earth_Magic\" title=\"School of Earth Magic\">Earth Magic</a>",
+   "Effect": "Summons allied <a href=\"/index.php/Earth_Elementals\" class=\"mw-redirect\" title=\"Earth Elementals\">Earth Elementals</a> for the duration of combat."
+ },
+ {
+   "Name": "<a href=\"/index.php/Summon_Fire_Elemental\" title=\"Summon Fire Elemental\"><img alt=\"Summon Fire Elemental small.png\" src=\"/images/d/d8/Summon_Fire_Elemental_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Summon_Fire_Elemental\" title=\"Summon Fire Elemental\">Summon Fire Elemental</a>",
+   "Level": 5,
+   "Class": "<a href=\"/index.php/School_of_Fire_Magic\" title=\"School of Fire Magic\">Fire Magic</a>",
+   "Effect": "Summons allied <a href=\"/index.php/Fire_Elementals\" class=\"mw-redirect\" title=\"Fire Elementals\">Fire Elementals</a> for the duration of combat."
+ },
+ {
+   "Name": "<a href=\"/index.php/Summon_Water_Elemental\" title=\"Summon Water Elemental\"><img alt=\"Summon Water Elemental small.png\" src=\"/images/c/cf/Summon_Water_Elemental_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Summon_Water_Elemental\" title=\"Summon Water Elemental\">Summon Water Elemental</a>",
+   "Level": 5,
+   "Class": "<a href=\"/index.php/School_of_Water_Magic\" title=\"School of Water Magic\">Water Magic</a>",
+   "Effect": "Summons allied <a href=\"/index.php/Water_Elementals\" class=\"mw-redirect\" title=\"Water Elementals\">Water Elementals</a> for the duration of combat."
+ },
+ {
+   "Name": "<a href=\"/index.php/Titan%27s_Lightning_Bolt\" title=\"Titan's Lightning Bolt\"><img alt=\"Titan's Lightning Bolt small.png\" src=\"/images/8/87/Titan%27s_Lightning_Bolt_small.png\" decoding=\"async\" width=\"46\" height=\"30\"></a> <a href=\"/index.php/Titan%27s_Lightning_Bolt\" title=\"Titan's Lightning Bolt\">Titan's Lightning Bolt</a>",
+   "Level": 5,
+   "Class": "<a href=\"/index.php/School_of_Air_Magic\" title=\"School of Air Magic\">Air Magic</a>",
+   "Effect": "Inflicts 600 magic damage on a single enemy. Requires <a href=\"/index.php/Titan%27s_Thunder\" title=\"Titan's Thunder\">Titan's Thunder</a>."
+ }
+]
